@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/AhdanFirdaus/AhdanFirdaus/blob/main/assets/img/fronend.png"/>
+<img width="100%" src="https://github.com/AhdanFirdaus/AhdanFirdaus/blob/main/fronend.png"/>
 
 # 💫 About Me:
 🏫 I am a student at SMK 7 Semarang<br>🤝 I often and like to collaborate<br>👀 I learned to use ATM (Observe, imitate and modify)<br>🚀 I love exploring and learning the latest technology
