@@ -55,8 +55,8 @@ I'm Muhammad Ahdan Firdaus. Now I am still a student at SMK Negeri 7 Semarang. I
 
 <h2 align="center">📈 Statistics</h2>
 <div align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AhdanFirdaus&show_icons=true&theme=holi"/>
-<img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhdanFirdaus&layout=compact&theme=holi"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AhdanFirdaus&show_icons=true&theme=tokyonight"/>
+<img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhdanFirdaus&layout=compact&theme=tokyonight"/>
 </div>
 
 <hr>
