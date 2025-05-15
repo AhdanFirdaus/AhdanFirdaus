@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f59e0b&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi+Friends;I'm+Muhammad+Ahdan+Firdaus)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1F8582&width=435&lines=%F0%9F%91%8B+Hi++Friends;I'm+Muhammad+Ahdan+Firdaus;I+like+to+learn+new+things)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About
 
@@ -8,9 +8,9 @@ A Web Developer from Indonesia. Passionate about constantly learning, taking on 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahdan.firdaus/) 
 
 <div style="display: flex; gap: 1rem;">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdanfirdaus&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ## ⚡Skills
