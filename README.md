@@ -4,8 +4,8 @@
 
 A Web Developer from Indonesia. Passionate about constantly learning, taking on new challenges, and building impactful web solutions. I'm always open to collaborating on exciting projects and exploring innovative ideas. Feel free to connect with me and discover more about my work here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ahdan-firdaus-a92125290/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahdan.firdaus/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahdan-firdaus-a92125290/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahdan.firdaus/) 
 
 <div style="display: flex; gap: 1rem;">
 <img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
